@@ -1,6 +1,6 @@
 # SundaPOS
 
-Rules and datasets for the paper "Part-of-Speech Tagging for Sundanese Using Cross-Lingual Projection, Rule-Based Correction, and Hybrid Methods" by Irwan Setiawan, HUNG-YU KAO, and KUN-TA CHUANG.
+Rules and datasets for the paper "SundaPOS: A Hybrid Part-of-Speech Tagging Resource for Sundanese with Trilingual Parallel Data, Morphological Rules, and Gold-Standard Annotations" by Irwan Setiawan, HUNG-YU KAO, and KUN-TA CHUANG.
 
 The repository contains the following:
 
